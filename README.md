@@ -1,6 +1,6 @@
 # Fakultaet
 
-Naive implementation of a simple alogrithm to calculate a factorial.
+Naive implementation of a simple alogrithm to calculate a factorial using all the cores in your machine.
 
 ## Build
 
